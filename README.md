@@ -1,6 +1,11 @@
 # Word Break Problem
 
 <!-- insert badges -->
+[![Build Status](https://travis-ci.org/MasterOfTheU/word-break-problem.svg?branch=master)](https://travis-ci.org/MasterOfTheU/word-break-problem)
+[![codecov](https://codecov.io/gh/MasterOfTheU/word-break-problem/branch/master/graph/badge.svg)](https://codecov.io/gh/MasterOfTheU/word-break-problem)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2af4c0e58cc74efc8b307899932ebadc)](https://www.codacy.com/app/MasterOfTheU/word-break-problem?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MasterOfTheU/word-break-problem&amp;utm_campaign=Badge_Grade)
+
+
 
 The words.txt file contains a sorted list of approximately 173,000 words. The words are listed one word per line, do not contain spaces, and are all lowercase.
 
