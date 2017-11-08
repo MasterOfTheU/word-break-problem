@@ -54,7 +54,8 @@ public class WordsHandler {
      * @return Recursively returns value of true if dictionary contains prefix and suffix is also concatenated, otherwise returns false.
      */
     private static boolean isConcatenated(String word, Set<String> dictionary, ArrayList<String> filledConcList) {
-        String prefix, suffix;
+        String prefix;
+        String suffix;
         for (int i = 0; i <= word.length()-1 ; i++) {
             prefix = word.substring(0, i+1);
             suffix = word.substring(i+1);
