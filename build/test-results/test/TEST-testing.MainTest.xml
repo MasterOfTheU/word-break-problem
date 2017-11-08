@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-11-08T21:18:25" hostname="brain" time="0.373">
+  <properties/>
+  <testcase name="testFindSecondLongestConcatenatedWord" classname="testing.MainTest" time="0.122"/>
+  <testcase name="testGetTotalNumberOfWords" classname="testing.MainTest" time="0.056"/>
+  <testcase name="testPrintListInfo" classname="testing.MainTest" time="0.081"/>
+  <testcase name="testFindLongestConcatenatedWord" classname="testing.MainTest" time="0.114"/>
+  <system-out><![CDATA[getWordsFromFile has executed.
+Used memory in megabytes: 3.584503 
+The runtime of method getWordsFromFile() is 46 ms
+
+findConcatenatedWords has executed.
+Used memory in megabytes: 2.153305 
+The runtime of method findConcatenatedWords() is 26 ms
+
+findLongestConcatenatedWords has executed.
+Used memory in megabytes: 2.162773 
+The runtime of method findLongestConcatenatedWords() is 19 ms
+
+findLongestConcatenatedWords has executed.
+Used memory in megabytes: 2.162979 
+The runtime of method findLongestConcatenatedWords() is 22 ms
+
+getWordsFromFile has executed.
+Used memory in megabytes: 2.166756 
+The runtime of method getWordsFromFile() is 19 ms
+
+findConcatenatedWords has executed.
+Used memory in megabytes: 2.166077 
+The runtime of method findConcatenatedWords() is 22 ms
+
+findLongestConcatenatedWords has executed.
+Used memory in megabytes: 2.166214 
+The runtime of method findLongestConcatenatedWords() is 15 ms
+
+getWordsFromFile has executed.
+Used memory in megabytes: 2.166298 
+The runtime of method getWordsFromFile() is 16 ms
+
+findConcatenatedWords has executed.
+Used memory in megabytes: 2.165771 
+The runtime of method findConcatenatedWords() is 24 ms
+
+findLongestConcatenatedWords has executed.
+Used memory in megabytes: 2.166641 
+The runtime of method findLongestConcatenatedWords() is 40 ms
+
+LONGEST WORD FROM FILE IS: aasvogels
+SECOND LONGEST WORD FROM FILE IS: aardvarks
+TOTAL NUMBER OF CONCATENATED WORDS: 6
+getWordsFromFile has executed.
+Used memory in megabytes: 2.167717 
+The runtime of method getWordsFromFile() is 20 ms
+
+findConcatenatedWords has executed.
+Used memory in megabytes: 2.166161 
+The runtime of method findConcatenatedWords() is 54 ms
+
+findLongestConcatenatedWords has executed.
+Used memory in megabytes: 2.166832 
+The runtime of method findLongestConcatenatedWords() is 21 ms
+
+findLongestConcatenatedWords has executed.
+Used memory in megabytes: 2.166359 
+The runtime of method findLongestConcatenatedWords() is 17 ms
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

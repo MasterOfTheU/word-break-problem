@@ -11,8 +11,7 @@ import static org.hamcrest.Matchers.*;
 import static org.hamcrest.core.Is.is;
 import static org.hamcrest.core.IsNot.not;
 import static org.junit.Assert.*;
-import static wbpsolution.WordsHandler.findConcatenatedWords;
-import static wbpsolution.WordsHandler.findLongestConcatenatedWords;
+import static wbpsolution.WordsHandler.*;
 
 
 public class WordsHandlerTest {
@@ -36,10 +35,5 @@ public class WordsHandlerTest {
         assertThat(concatenatedWords, is(not(empty())));
     }
 
-    @Test
-    public void testFindLongestConcatenatedWords()  {
-        ArrayList<String> longestConcatenatedWords = findLongestConcatenatedWords(concatenatedWords);
-        assertThat(longestConcatenatedWords, is(not(empty())));
-    }
 
 }

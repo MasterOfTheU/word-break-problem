@@ -58,7 +58,7 @@ public class WordsHandler {
         String suffix;
         for (int i = 0; i <= word.length()-1 ; i++) {
             prefix = word.substring(0, i+1);
-            suffix = word.substring(i+1);
+            suffix = word.substring(i+1, word.length());
             if (dictionary.contains(prefix)) {
                 if (dictionary.contains(suffix)) {
                     filledConcList.add(word);
