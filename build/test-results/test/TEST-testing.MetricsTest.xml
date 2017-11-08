@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testing.MetricsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-11-08T21:18:26" hostname="brain" time="0.025">
+<testsuite name="testing.MetricsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-11-08T21:32:04" hostname="brain" time="0.066">
   <properties/>
   <testcase name="printMethodName" classname="testing.MetricsTest" time="0.0"/>
-  <testcase name="gatherPerformance" classname="testing.MetricsTest" time="0.023"/>
-  <system-out><![CDATA[Used memory in megabytes: 2.166245 
+  <testcase name="gatherPerformance" classname="testing.MetricsTest" time="0.066"/>
+  <system-out><![CDATA[Used memory in megabytes: 2.166176 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testing.WordsHandlerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-11-08T21:18:26" hostname="brain" time="0.161">
+<testsuite name="testing.WordsHandlerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-11-08T21:32:04" hostname="brain" time="0.065">
   <properties/>
-  <testcase name="getWordsFromFile" classname="testing.WordsHandlerTest" time="0.07"/>
-  <testcase name="testFindConcatenatedWords" classname="testing.WordsHandlerTest" time="0.09"/>
+  <testcase name="testGetWordsFromFile" classname="testing.WordsHandlerTest" time="0.029"/>
+  <testcase name="testFindConcatenatedWords" classname="testing.WordsHandlerTest" time="0.035"/>
   <system-out><![CDATA[getWordsFromFile has executed.
-Used memory in megabytes: 2.172409 
-The runtime of method getWordsFromFile() is 32 ms
-
-findConcatenatedWords has executed.
-Used memory in megabytes: 2.173355 
-The runtime of method findConcatenatedWords() is 28 ms
+Used memory in megabytes: 3.132027 
+The runtime of method getWordsFromFile() is 20 ms
 
 getWordsFromFile has executed.
-Used memory in megabytes: 2.227638 
-The runtime of method getWordsFromFile() is 33 ms
+Used memory in megabytes: 2.227158 
+The runtime of method getWordsFromFile() is 16 ms
 
 findConcatenatedWords has executed.
-Used memory in megabytes: 2.180862 
-The runtime of method findConcatenatedWords() is 42 ms
-
-findConcatenatedWords has executed.
-Used memory in megabytes: 2.181320 
-The runtime of method findConcatenatedWords() is 15 ms
+Used memory in megabytes: 2.180801 
+The runtime of method findConcatenatedWords() is 19 ms
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>

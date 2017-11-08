@@ -15,13 +15,12 @@ import static wbpsolution.WordsHandler.*;
 
 public class MainTest {
 
-    private Set<String> dictionary;
     private ArrayList<String> concatenatedWords;
     private ArrayList<String> longestConcatenatedWords;
 
     @Before
     public void init() throws Exception {
-        dictionary = WordsHandler.getWordsFromFile("test.txt");
+        Set<String> dictionary = getWordsFromFile("test.txt");
         concatenatedWords = findConcatenatedWords(dictionary, new ArrayList<>());
         longestConcatenatedWords = findLongestConcatenatedWords(concatenatedWords);
     }
@@ -35,7 +34,7 @@ public class MainTest {
     public void testFindLongestConcatenatedWord()  {
         ArrayList<String> longestConcatenatedWords = findLongestConcatenatedWords(concatenatedWords);
         String expected = "aasvogels";
-        String actualResult = Main.getLongestWord(longestConcatenatedWords);
+        String actualResult = getLongestWord(longestConcatenatedWords);
         assertEquals(expected, actualResult);
     }
 
@@ -43,7 +42,7 @@ public class MainTest {
     public void testFindSecondLongestConcatenatedWord()  {
         ArrayList<String> longestConcatenatedWords = findLongestConcatenatedWords(concatenatedWords);
         String expected = "aardvarks";
-        String actualResult = Main.getSecondLongestWord(longestConcatenatedWords);
+        String actualResult = getSecondLongestWord(longestConcatenatedWords);
         assertEquals(expected, actualResult);
     }
 

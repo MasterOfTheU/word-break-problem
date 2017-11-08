@@ -2,7 +2,6 @@ package testing;
 
 import org.junit.Before;
 import org.junit.Test;
-import wbpsolution.WordsHandler;
 
 import java.util.ArrayList;
 import java.util.Set;
@@ -16,16 +15,14 @@ import static wbpsolution.WordsHandler.*;
 
 public class WordsHandlerTest {
     private Set<String> dictionary;
-    private ArrayList<String> concatenatedWords;
 
     @Before
     public void init() throws Exception {
-        dictionary = WordsHandler.getWordsFromFile("test.txt");
-        concatenatedWords = findConcatenatedWords(dictionary, new ArrayList<>());
+        dictionary = getWordsFromFile("test.txt");
     }
 
     @Test
-    public void getWordsFromFile() {
+    public void testGetWordsFromFile() {
         assertThat(dictionary, is(not(empty())));
     }
 

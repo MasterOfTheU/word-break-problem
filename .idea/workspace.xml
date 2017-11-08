@@ -2,31 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54a0f36f-f2ec-4273-a792-7625fbcf4d7d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/wbpsolution/Main.class" afterPath="$PROJECT_DIR$/build/classes/main/wbpsolution/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/wbpsolution/WordsHandler.class" afterPath="$PROJECT_DIR$/build/classes/main/wbpsolution/WordsHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/testing/WordsHandlerTest.class" afterPath="$PROJECT_DIR$/build/classes/test/testing/WordsHandlerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/jacoco/test.exec" afterPath="$PROJECT_DIR$/build/jacoco/test.exec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/wbpsolution/Main.class" afterPath="$PROJECT_DIR$/out/production/classes/wbpsolution/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/wbpsolution/WordsHandler.class" afterPath="$PROJECT_DIR$/out/production/classes/wbpsolution/WordsHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/testing.MetricsTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/testing.MetricsTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/testing.WordsHandlerTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/testing.WordsHandlerTest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/testing.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/testing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testing.MetricsTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-testing.MetricsTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testing.WordsHandlerTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-testing.WordsHandlerTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wbpsolution/Main.java" afterPath="$PROJECT_DIR$/src/main/java/wbpsolution/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wbpsolution/WordsHandler.java" afterPath="$PROJECT_DIR$/src/main/java/wbpsolution/WordsHandler.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/testing.MetricsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/testing.WordsHandlerTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testing.MainTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testing.MetricsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testing.WordsHandlerTest.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/testing/MainTest.java" afterPath="$PROJECT_DIR$/src/test/testing/MainTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/testing/WordsHandlerTest.java" afterPath="$PROJECT_DIR$/src/test/testing/WordsHandlerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -55,7 +37,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/wbpsolution/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -65,6 +47,16 @@
                 <element signature="e#1428#1429#0" expanded="true" />
                 <element signature="e#1475#1476#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordsHandlerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/testing/WordsHandlerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -418,9 +410,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/wbpsolution/WordsHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wbpsolution/Main.java" />
         <option value="$PROJECT_DIR$/src/test/testing/MainTest.java" />
         <option value="$PROJECT_DIR$/src/test/testing/WordsHandlerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wbpsolution/Main.java" />
       </list>
     </option>
   </component>
@@ -430,7 +422,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="208" />
     <option name="y" value="134" />
     <option name="width" value="1338" />
@@ -595,12 +587,12 @@
         <option name="vmOptions" />
       </ExternalSystemSettings>
     </configuration>
-    <configuration name="WordsHandlerTest.testFindSecondLongestConcatenatedWord" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="WordsHandlerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;testing.WordsHandlerTest.testFindSecondLongestConcatenatedWord&quot;" />
+        <option name="scriptParameters" value="--tests testing.WordsHandlerTest" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -713,18 +705,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest.testFindSecondLongestConcatenatedWord" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest.testGetTotalNumberOfWords" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.MainTest" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.Tests in 'testing'" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest.testGetTotalNumberOfWords" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.MainTest" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.Tests in 'testing'" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.Main" />
         <item index="1" class="java.lang.String" itemvalue="Gradle.Tests in 'testing'" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.MainTest" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest.testGetTotalNumberOfWords" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest.testFindSecondLongestConcatenatedWord" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.MainTest" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.WordsHandlerTest.testGetTotalNumberOfWords" />
       </list>
     </recent_temporary>
   </component>
@@ -740,7 +732,7 @@
       <updated>1509793367602</updated>
       <workItem from="1509793376539" duration="22460000" />
       <workItem from="1509869429210" duration="30595000" />
-      <workItem from="1510162193122" duration="13716000" />
+      <workItem from="1510162193122" duration="14474000" />
     </task>
     <servers />
   </component>
@@ -751,20 +743,20 @@
     <history-entry file="MainTest - 2017.11.08 at 23h 18m 13s.xml">
       <configuration name="MainTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="MainTest_testGetLongestWord - 2017.11.08 at 22h 27m 13s.xml">
-      <configuration name="MainTest.testGetLongestWord" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MainTest_testGetLongestWord - 2017.11.08 at 22h 27m 32s.xml">
-      <configuration name="MainTest.testGetLongestWord" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MainTest_testGetLongestWord - 2017.11.08 at 22h 28m 23s.xml">
-      <configuration name="MainTest.testGetLongestWord" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MainTest_testGetLongestWord - 2017.11.08 at 22h 28m 50s.xml">
-      <configuration name="MainTest.testGetLongestWord" configurationId="GradleRunConfiguration" />
+    <history-entry file="MainTest - 2017.11.08 at 23h 30m 52s.xml">
+      <configuration name="MainTest" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="Tests_in_'testing' - 2017.11.08 at 23h 18m 26s.xml">
       <configuration name="Tests in 'testing'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'testing' - 2017.11.08 at 23h 31m 55s.xml">
+      <configuration name="Tests in 'testing'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'testing' - 2017.11.08 at 23h 32m 04s.xml">
+      <configuration name="Tests in 'testing'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="WordsHandlerTest - 2017.11.08 at 23h 31m 50s.xml">
+      <configuration name="WordsHandlerTest" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="WordsHandlerTest_testFindLongestConcatenatedWords - 2017.11.08 at 23h 13m 10s.xml">
       <configuration name="WordsHandlerTest.testFindLongestConcatenatedWords" configurationId="GradleRunConfiguration" />
@@ -777,11 +769,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66771000" />
+    <option name="totallyTimeSpent" value="67529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="32" width="1696" height="1026" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -791,7 +782,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35353535" sideWeight="0.46821517" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40965208" sideWeight="0.53178483" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42873177" sideWeight="0.53178483" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1011,19 +1002,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/testing/WordsHandlerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/testing/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="442">
+          <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1036,6 +1022,14 @@
             <element signature="e#1428#1429#0" expanded="true" />
             <element signature="e#1475#1476#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/testing/WordsHandlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
