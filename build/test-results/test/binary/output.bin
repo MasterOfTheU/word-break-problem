@@ -1,0 +1,33 @@
+$Used memory in megabytes: 2.605232 
+getWordsFromFile has executed.
+$Used memory in megabytes: 2.155510 
+2The runtime of method getWordsFromFile() is 91 ms
+
+$findConcatenatedWords has executed.
+$Used memory in megabytes: 2.155647 
+7The runtime of method findConcatenatedWords() is 18 ms
+
++findLongestConcatenatedWords has executed.
+$Used memory in megabytes: 2.165367 
+>The runtime of method findLongestConcatenatedWords() is 20 ms
+
+getWordsFromFile has executed.
+$Used memory in megabytes: 2.219917 
+2The runtime of method getWordsFromFile() is 25 ms
+
+$findConcatenatedWords has executed.
+$Used memory in megabytes: 2.173309 
+7The runtime of method findConcatenatedWords() is 15 ms
+
+getWordsFromFile has executed.
+$Used memory in megabytes: 2.173416 
+2The runtime of method getWordsFromFile() is 24 ms
+
+$findConcatenatedWords has executed.
+$Used memory in megabytes: 3.134399 
+7The runtime of method findConcatenatedWords() is 15 ms
+
+$findConcatenatedWords has executed.
+$Used memory in megabytes: 2.174011 
+7The runtime of method findConcatenatedWords() is 13 ms
+
