@@ -1,11 +1,9 @@
 # Word Break Problem
 
-<!-- insert badges -->
 [![Build Status](https://travis-ci.org/MasterOfTheU/word-break-problem.svg?branch=master)](https://travis-ci.org/MasterOfTheU/word-break-problem)
 [![codecov](https://codecov.io/gh/MasterOfTheU/word-break-problem/branch/master/graph/badge.svg)](https://codecov.io/gh/MasterOfTheU/word-break-problem)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2af4c0e58cc74efc8b307899932ebadc)](https://www.codacy.com/app/MasterOfTheU/word-break-problem?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MasterOfTheU/word-break-problem&amp;utm_campaign=Badge_Grade)
-
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/2af4c0e58cc74efc8b307899932ebadc)](https://www.codacy.com/app/MasterOfTheU/word-break-problem?utm_source=github.com&utm_medium=referral&utm_content=MasterOfTheU/word-break-problem&utm_campaign=Badge_Coverage)
 
 The words.txt file contains a sorted list of approximately 173,000 words. The words are listed one word per line, do not contain spaces, and are all lowercase.
 
@@ -27,4 +25,4 @@ complexity grows from O(m) to O(alphabet_size x key_length x N) where <strong>N<
 Sounds not that nice, uh? Tries just can't work fast on big input alphabets.
 
 ### Gathered metrics & results
-<!-- insert pictures -->
+![snap1](https://user-images.githubusercontent.com/15348166/32571707-1153af76-c4d1-11e7-9642-3c614d260682.PNG)
