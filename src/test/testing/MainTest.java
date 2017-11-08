@@ -2,8 +2,6 @@ package testing;
 
 import org.junit.Before;
 import org.junit.Test;
-import wbpsolution.Main;
-import wbpsolution.WordsHandler;
 
 import java.util.ArrayList;
 import java.util.Set;
